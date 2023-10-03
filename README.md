@@ -1,1 +1,4 @@
 - 👋 Olá, meu nome é Gustavo Jesus
+- 💻 Tenho projetos de sites em HTML, Css, JavaScript 
+- 💻 Também possuo alguns projetos em C
+- 📚 Estou sempre apto a conhecer e aprender algo novo que me torne um desenvolvedor cada vez melhor.
