@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Gustavo Jesus
-- 🧑‍🎓 Sou um estudante do 4° semestre de Engenharia de Software
+- 🧑‍🎓 Sou um estudante do 5° semestre de Engenharia de Software
 - 💻 Tenho projetos de sites em HTML, Css, JavaScript e React
 - 💻 Também possuo alguns projetos em C, sql e POO utilizando Java
 - 📚 Estou sempre apto a conhecer e aprender algo novo que me torne um desenvolvedor cada vez melhor.
