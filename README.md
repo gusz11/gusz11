@@ -15,6 +15,7 @@ Bem-vindo(a) ao meu GitHub! Sou estudante de Engenharia de Software na Universid
 
 ## Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusz11&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusz11&layout=compact&theme=radical)
 
 ## Tecnologias que uso
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
